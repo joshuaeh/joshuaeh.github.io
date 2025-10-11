@@ -3,8 +3,8 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "about",
+    id: "nav-",
+    title: "",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -51,35 +51,25 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-people",
-          title: "people",
-          description: "members of the lab or group",
+        },{id: "nav-favorites",
+          title: "favorites",
+          description: "A non-exhaustive, non-exclusive, and not-necessarily endorsing list of some of my favorite things",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/people/";
+            window.location.href = "/favorites/";
           },
-        },{id: "dropdown-publications",
-              title: "publications",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "";
-              },
-            },{id: "dropdown-projects",
-              title: "projects",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "Dropdown",
-              handler: () => {
-                window.location.href = "/blog/";
-              },
-            },{id: "news-a-simple-inline-announcement",
+        },{id: "post-the-subset-extended-kalman-filter",
+      
+        title: "The Subset Extended Kalman Filter",
+      
+      description: "A modification of the Extended Kalman Filter for updating Neural Network parameters",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/sekf/";
+        
+      },
+    },{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
