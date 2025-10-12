@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: *Creative and parsimonious modeling, optimization, and control at the intersection of mathematical optimization, machine learning, systems engineering, and chemical engineering.*  
+subtitle: Creative and parsimonious modeling, optimization, and control at the intersection of mathematical optimization, machine learning, systems engineering, and chemical engineering.
 
 profile:
   align: right
