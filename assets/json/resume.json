@@ -195,7 +195,7 @@
       "type": "Journal Article",
       "url": "https://doi.org/10.1016/j.renene.2024.121058",
       "preprint": "https://arxiv.org/abs/2403.12873",
-      "summary": "Short-term solar irradiance forecasting under data transmission constraints."
+      "summary": ""
     },
     {
       "name": "Survey of 8 UAV set-covering algorithms for terrain photogrammetry",
@@ -216,7 +216,7 @@
       "issue": "14",
       "type": "Journal Article",
       "url": "https://doi.org/10.3390/rs12142285",
-      "summary": "Survey of 8 UAV set-covering algorithms for terrain photogrammetry."
+      "summary": ""
     },
     {
       "name": "Automated 3D reconstruction using optimized view-planning algorithms for iterative development of structure-from-motion models",
@@ -235,7 +235,7 @@
       "issue": "13",
       "type": "Journal Article",
       "url": "https://doi.org/10.3390/rs12132169",
-      "summary": "Automated 3D reconstruction using optimized view-planning algorithms for structure-from-motion models."
+      "summary": ""
     },
     {
       "name": "Sequential earthquake damage assessment incorporating optimized suav remote sensing at pescara del tronto",
@@ -259,7 +259,7 @@
       "issue": "8",
       "type": "Journal Article",
       "url": "https://doi.org/10.3390/geosciences9080332",
-      "summary": "Sequential earthquake damage assessment using optimized SUAV remote sensing."
+      "summary": ""
     },
     {
       "name": "STELLAR: Spatio-Temporal Deep Learning for Solar Irradiance Forecasting",
@@ -274,7 +274,7 @@
       "releaseDate": "2022-01-01",
       "location": "Amsterdam",
       "type": "Technical Report",
-      "summary": "STELLAR: Spatio-Temporal Deep Learning for Solar Irradiance Forecasting."
+      "summary": "Internal technical report."
     },
     {
       "name": "Staying Alive: Online Neural Network Maintenance and Systemic Drift",
@@ -287,20 +287,8 @@
       "publisher": "Scientific Reports",
       "releaseDate": "2025-06-01",
       "type": "Under Review",
-      "preprint": "http://arxiv.org/abs/2503.17681",
+      "url": "http://arxiv.org/abs/2503.17681",
       "summary": "Online neural network maintenance and systemic drift. Submitted to Scientific Reports June 2025."
-    },
-    {
-      "name": "Using Transfer Learning to Bridge Plant-Plant Mismatch in Data-Driven Dynamical System Models",
-      "authors": [
-        "Hammond, J. E.",
-        "Soderstrom, T.",
-        "Korgel, B. A.",
-        "Baldea, M."
-      ],
-      "releaseDate": "2025-06-01",
-      "type": "In Preparation",
-      "summary": "Using transfer learning to bridge plant-plant mismatch in data-driven dynamical system models."
     }
   ],
   "work": [
@@ -382,8 +370,6 @@
       "name": "Teaching Assistant Certification",
       "date": "2023-12-07",
       "issuer": "The University of Texas at Austin"
-      // "url": "https://example.com",
-      // "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "Inclusive Classrooms Leadership Certificate",
