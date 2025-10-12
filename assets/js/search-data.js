@@ -62,16 +62,11 @@ ninja.data = [{
           window.location.href = "/blog/2025/sekf/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+    },{id: "news-i-had-a-great-time-at-the-texas-wisconsin-california-control-consortium-in-madison-wi-presenting-my-research-to-industry-sponsors-and-academic-peers",
+          title: 'I had a great time at the Texas-Wisconsin-California Control Consortium in Madison WI...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-m-looking-forward-to-attending-this-year-s-annual-aiche-meeting-in-boston-i-will-be-presenting-work-on-nn-model-updating-on-wednesday-in-session-10e-advances-in-machine-learning-and-intelligent-systems-ii-as-well-as-in-the-meet-the-faculty-post-doc-candidates-and-meet-the-industry-candidates-poster-sessions",
+          title: 'I’m looking forward to attending this year’s annual AIChE meeting in Boston. I...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
