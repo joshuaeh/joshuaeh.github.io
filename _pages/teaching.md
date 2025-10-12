@@ -9,7 +9,7 @@ nav_order: 6
 
 ## Interactive Process Dynamics and Control Course
 
-![Course overview](assets/img/pdc_overview.png)
+![Course overview](../assets/img/pdc_overview.png)
 
 [Course Repository on Github](https://github.com/APMonitor/mdc)
 
