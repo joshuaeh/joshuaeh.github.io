@@ -32,5 +32,3 @@ I am interested in elegant, seemingly-simple solutions to challenging interdisci
 I am currently completing a Ph.D. in Chemical Engineering at the University of Texas at Austin🤘.
 
 My interests include optimization under uncertainty, data-driven modeling and optimization (and the challenges that occur in practice), and fundamental systems engineering challenges.
-
-Some favorite links of mine:
