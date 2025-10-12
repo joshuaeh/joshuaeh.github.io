@@ -98,7 +98,7 @@
       "area": "Chemical Engineering",
       "studyType": "PhD",
       "startDate": "2021-08-01",
-      "endDate": "2026-08-01",
+      "endDate": "2026-08-01"
     },
     {
       "institution": "McKetta Department of Chemical Engineering, The University of Texas at Austin",
@@ -107,7 +107,7 @@
       "area": "Chemical Engineering",
       "studyType": "MS",
       "startDate": "2021-08-01",
-      "endDate": "2025-12-06",
+      "endDate": "2025-12-06"
     },
     {
       "institution": "Department of Chemical Engineering, Brigham Young University",
@@ -116,7 +116,7 @@
       "area": "Chemical Engineering",
       "studyType": "BS",
       "startDate": "2014-08-01",
-      "endDate": "2021-08-01",
+      "endDate": "2021-08-01"
     }
   ],
   "projects": [
@@ -181,7 +181,7 @@
       "title": "Thomas Edgar Chemical Engineering Graduate Fellowship",
       "date": "2024-06-01",
       "awarder": "The University of Texas at Austin",
-      "summary": "Awarded to suppourt PhD students in chemical engineering who demonstrate excellence in research and academic performance.",
+      "summary": "Awarded to suppourt PhD students in chemical engineering who demonstrate excellence in research and academic performance."
     }
   ],
   "certificates": [
