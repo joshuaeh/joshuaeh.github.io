@@ -11,6 +11,6 @@ nav_order: 6
 
 ![Course overview](../assets/img/pdc_overview.png)
 
-[Course Repository on Github](https://github.com/APMonitor/mdc)
+[![GitHub logo](../assets/img/github.png)Course Repository on Github](https://github.com/APMonitor/mdc)
 
-[Instructional Videos on YouTube](https://www.youtube.com/@horizonpse/playlists)
+[![YouTube logo](../assets/img/youtube.png)Instructional Videos on YouTube](https://www.youtube.com/@horizonpse/playlists)
