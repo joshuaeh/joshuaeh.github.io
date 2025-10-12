@@ -7,4 +7,10 @@ nav: true
 nav_order: 6
 ---
 
-## CHE
+## Interactive Process Dynamics and Control Course
+
+![Course overview](pdc_overview.png)
+
+[Course Repository on Github](https://github.com/APMonitor/mdc)
+
+[Instructional Videos on YouTube](https://www.youtube.com/@horizonpse/playlists)
