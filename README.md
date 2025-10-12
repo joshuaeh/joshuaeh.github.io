@@ -15,14 +15,14 @@ Ph.D. Candidate in Chemical Engineering interested in systems, scheduling and op
   [] All papers
   [] Shell Internship
   [] TWCCC Posts
-  [] AIChE Post
-[] About bio
-[] CV
-[] Publications.bib
-[] Teaching
-  [] Links to MDC course materials
-[] Remove people page
-[] Repositories page
+  [x] AIChE Post
+[x] About bio
+[x] CV
+[x] Publications.bib
+[x] Teaching
+  [x] Links to MDC course materials
+[x] Remove people page
+[x] Repositories page
 [] Projects
   [] UAV Photogrammetry
   [] Solar Forecasting
